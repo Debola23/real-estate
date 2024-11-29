@@ -1,0 +1,134 @@
+.faq{
+    font-size:1.5rem;
+    font-weight:700;
+    background-image: url("./Images/background.png");
+}
+.faqBox{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    margin: 4rem 0;
+    margin-bottom:5rem;
+    margin-top: 5rem;
+    width: 100%;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+
+}
+.faq2{
+    font-size:2.5rem;
+    font-weight:700;
+    display: flex;
+    flex-direction: column;
+    color: coral;
+}
+.pd{
+    margin-top:20px;
+    margin-bottom:1rem;
+    font-weight:500;
+    color:#706f7b;
+    font-size: medium;
+    text-wrap:balance;
+}
+.faqList {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    padding-left: 12%;
+    padding-right: 12%;
+    align-items: center;
+}
+.faqItem {
+    padding: 10px 0;
+    cursor: pointer;
+    padding: 10px;
+    font-size:1.4rem;
+    width: 48rem;
+}
+.faqQuestion {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #f0f0f0;
+    padding: 10px;
+    font-size:1.4rem;
+}
+.faqAnswer {
+    margin-top: 10px;
+    font-size: 0.9em;
+    padding: 10px;
+    color: #706f7b;
+    font-size:1rem;
+    line-height:2;
+    font-weight:400;
+    
+}
+.faq-icon {
+    font-size: 1.2em;
+    color: #888;
+}
+
+
+
+@media(max-width:1000px){
+    .faqItem{
+        width: 42rem;
+    }
+
+}
+
+@media(max-width:745px){
+    .faqItem{
+        width: 35.978rem;
+    }
+    .faqQuestion{
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-weight: bold;
+        cursor: pointer;
+        background-color: #f0f0f0;
+        padding: 10px;
+        font-size: 1.187rem;
+      }
+
+}
+@media(max-width:635px){
+    .faqItem{
+        width: 32.978rem;
+    }
+}
+@media(max-width:535px){
+    .faqItem{
+        width: 28.978rem;
+    }
+}
+@media(max-width:485px){
+    .faqItem{
+        width: 25.978rem;
+    }
+}
+@media(max-width:425px){
+    .faqItem{
+        width: 23.978rem;
+    }
+    .faqList {
+        display: flex;
+        flex-direction: column;
+        margin-top: 2rem;
+        padding-left: 9%;
+        padding-right: 9%;
+        align-items: center;
+    }
+}
+
+@media (max-width: 385px) {
+    .faqItem {
+      width: 21.978rem;
+    }
+  }

@@ -1,0 +1,89 @@
+
+
+
+
+
+
+
+
+
+.card {
+    width: 16.5rem;
+    height: 400px;
+    padding: .8em;
+    background: #ffffff;
+    position: relative;
+    overflow: visible;
+    transition: all 300ms ease-in;
+    border-radius: 22px;
+}   
+.card:hover{
+    scale: 1.025;
+    cursor: pointer;
+    background: linear-gradient(168deg, rgba(255, 255, 255, 0)0%,
+    rgba(136, 160, 255, 0.46) 217.91%
+    );
+    box-shadow: 0px 72px 49px -51px rgba(136, 160, 255, 0.21);
+    border-radius: 20px;
+}
+.cardImg {
+    background-color: #ffcaa6;
+    height: 13rem;
+    width: 100%;
+    border-radius: .5rem;
+    transition: .3s ease;
+}
+.imageFluid{
+    height: 208px;
+    width: 100%;
+    border-radius: 10px;
+}
+.cardInfo {
+    padding-top: 10%;
+}   
+.svgIcon {
+    width: 28px;
+    height: 28px;
+}
+.orangeText{
+    color: coral;
+}
+.grid {
+    width: 100%; 
+    gap: 2rem;
+  }
+
+.cardFooter {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    border-top: 1px solid #ddd;
+}
+.textTitle {
+    font-weight: 500;
+    color: #8c8b8b;
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+.textBody {
+    font-size: .9em;
+    padding-bottom: 10px;
+}
+.cardButton {
+    border: 1px solid #252525;
+    display: flex;
+    padding: .3em;
+    cursor: pointer;
+    border-radius: 50px;
+    transition: .3s ease-in-out;
+}
+.cardButton:hover {
+    border: 1px solid #ffcaa6;
+    background-color: #ffcaa6;
+}
+
+
+
+  
