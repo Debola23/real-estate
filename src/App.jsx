@@ -6,7 +6,6 @@ import { Residencies } from './components/Residencies/Residencies'
 import { Agents } from './components/Agents/Agents'
 import { Contact } from './components/Contact/Contact'
 import { Faq } from './components/Faq/Faq'
-import { Outlet } from 'react-router-dom'
 
 
 
@@ -47,7 +46,6 @@ function App() {
             </div>
             <Faq/>
             <Contact/>
-            <Outlet/>
         </div>
       </div>
     </div>
