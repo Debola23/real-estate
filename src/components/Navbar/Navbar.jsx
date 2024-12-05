@@ -33,7 +33,7 @@ export const Navbar = () => {
                   <a href="#agents" className={styles.linkcl}>Agents</a>
               </li>
               <li className={styles.listcl}>
-                <Link to="/property" className={styles.linkcl}>Property</Link>
+                <Link to="/real-estate/property" className={styles.linkcl}>Property</Link>
               </li>
               <li className={styles.listcl}>
                   <button className={styles.btn} >

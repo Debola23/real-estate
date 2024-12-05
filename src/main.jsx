@@ -10,12 +10,14 @@ import {
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/real-estate/",
     element: <App/>,
-  },
-  {
-    path: "property",
-    element: <Property/>,
+    children: [
+      {
+        path: "/real-estate/property",
+        element: <Property/>
+      }
+    ]
   },
 ]);
 
