@@ -53,7 +53,7 @@ export const Property = () => {
           <div className={styles.housebox}>
               <div className={styles.carBoxes2}>
                   <div className={styles.carBoxes3}>
-                      <img src="./Images/property1.jpg" alt="car_img" className={styles.cari}/>
+                      <img src="./Images/property1.jpg" alt="house_img" className={styles.cari}/>
                       <div className={styles.forSale} id="badge">For Sale</div>
                       <div className={styles.carDeets}>
                           <div className={styles.namePrice}>
@@ -80,7 +80,7 @@ export const Property = () => {
               </div>
               <div className={styles.carBoxes2}>
                   <div className={styles.carBoxes3}>
-                      <img src="./Images/property2.jpg" alt="car_img" className={styles.cari}/>
+                      <img src="./Images/property2.jpg" alt="house_img" className={styles.cari}/>
                       <div className={styles.forSale}>For Sale</div>
                       <div className={styles.carDeets}>
                           <div className={styles.namePrice}>
@@ -107,7 +107,7 @@ export const Property = () => {
               </div>
               <div className={styles.carBoxes2}>
                   <div className={styles.carBoxes3}>
-                      <img src="./Images/property3.jpg" alt="car_img" className={styles.cari}/>
+                      <img src="./Images/property3.jpg" alt="house_img" className={styles.cari}/>
                       <div className={styles.forSale} id="badge">For Sale</div>
                       <div className={styles.carDeets}>
                           <div className={styles.namePrice}>
@@ -134,7 +134,7 @@ export const Property = () => {
               </div>
               <div className={styles.carBoxes2}>
                   <div className={styles.carBoxes3}>
-                      <img src="./Images/property4.jpg" alt="car_img" className={styles.cari}/>
+                      <img src="./Images/property4.jpg" alt="house_img" className={styles.cari}/>
                       <div className={styles.forSale} id="badge">For Sale</div>
                       <div className={styles.carDeets}>
                           <div className={styles.namePrice}>
@@ -161,7 +161,7 @@ export const Property = () => {
               </div>
               <div className={styles.carBoxes2}>
                   <div className={styles.carBoxes3}>
-                      <img src="./Images/property5.jpg" alt="car_img" className={styles.cari}/>
+                      <img src="./Images/property5.jpg" alt="house_img" className={styles.cari}/>
                       <div className={styles.forSale} id="badge">For Sale</div>
                       <div className={styles.carDeets}>
                           <div className={styles.namePrice}>
@@ -188,7 +188,7 @@ export const Property = () => {
               </div>
               <div className={styles.carBoxes2}>
                   <div className={styles.carBoxes3}>
-                      <img src="./Images/property6.jpg" alt="car_img" className={styles.cari}/>
+                      <img src="./Images/property6.jpg" alt="house_img" className={styles.cari}/>
                       <div className={styles.forSale} id="badge">For Sale</div>
                       <div className={styles.carDeets}>
                           <div className={styles.namePrice}>
