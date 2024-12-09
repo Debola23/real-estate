@@ -22,7 +22,7 @@
     margin-bottom: 3rem;
 }
 .backgroundImg{
-  background-image: url("./Images/background.png");
+  background-image: url("/Images/background.png");
 }
 .barBox{
     gap: 1.5rem;
