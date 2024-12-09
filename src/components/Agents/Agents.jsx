@@ -16,7 +16,7 @@ export const Agents = () => {
         <div className={Styles.cardHolder}>
             <div className={Styles.agentCard}>
                 <div className={Styles.cardTop}>
-                    <img src="./Images/profilepic.jpg" className={Styles.agentPic}/>
+                    <img src="./Images/profilepic.jpg"alt="agent1" className={Styles.agentPic}/>
                     <div className={Styles.agentArea}>
                         Ikeja, Lagos
                     </div>
@@ -36,7 +36,7 @@ export const Agents = () => {
             </div>
             <div className={Styles.agentCard}>
                 <div className={Styles.cardTop}>
-                    <img src="./Images/profilepic3.jpg" className={Styles.agentPic}/>
+                    <img src="./Images/profilepic3.jpg"alt="agent2" className={Styles.agentPic}/>
                     <div className={Styles.agentArea}>
                         Maryland, Lagos
                     </div>
@@ -56,7 +56,7 @@ export const Agents = () => {
             </div>
             <div className={Styles.agentCard}>
                 <div className={Styles.cardTop}>
-                    <img src="./Images/profilepic2.jpg" className={Styles.agentPic}/>
+                    <img src="./Images/profilepic2.jpg" alt="agent3" className={Styles.agentPic}/>
                     <div className={Styles.agentArea}>
                         Ikoyi, Lagos
                     </div>
@@ -79,7 +79,7 @@ export const Agents = () => {
         <div className={Styles.cardHolder}>
             <div className={Styles.agentCard}>
                 <div className={Styles.cardTop}>
-                    <img src="./Images/profilepic4.jpg" className={Styles.agentPic}/>
+                    <img src="./Images/profilepic4.jpg"alt="agent4" className={Styles.agentPic}/>
                     <div className={Styles.agentArea}>
                         Magodo, Lagos
                     </div>
@@ -99,7 +99,7 @@ export const Agents = () => {
             </div>
             <div className={Styles.agentCard}>
                 <div className={Styles.cardTop}>
-                    <img src="./Images/profilepic5.jpg" className={Styles.agentPic}/>
+                    <img src="./Images/profilepic5.jpg" alt="agent5" className={Styles.agentPic}/>
                     <div className={Styles.agentArea}>
                         Lekki, Lagos
                     </div>
@@ -119,7 +119,7 @@ export const Agents = () => {
             </div>
             <div className={Styles.agentCard}>
                 <div className={Styles.cardTop}>
-                    <img src="./Images/profilepic6.jpg" className={Styles.agentPic}/>
+                    <img src="./Images/profilepic6.jpg"alt="agent6" className={Styles.agentPic}/>
                     <div className={Styles.agentArea}>
                         Yaba, Lagos
                     </div>

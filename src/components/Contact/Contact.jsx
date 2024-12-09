@@ -23,7 +23,7 @@ export const Contact = () => {
             </div>
         </div>
         <div className={Styles.contactRight} >
-          <a href="/">
+          <a href="/" aria-label="Visit our website">
             <img src={"./Images/homelogo.png"} alt="" className={Styles.contactImg} />  
           </a>
           <span className={Styles.contactInfoo}>

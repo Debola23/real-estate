@@ -44,7 +44,7 @@ export const Slidebox = () => {
                     <p className={Styles.textBody}>Near, Parkview Estate</p>
                 </div>
                 <div className={Styles.cardFooter}>
-                    <span className={Styles.textTitle}> <span className={Styles.orangeText}>₦</span>163,340,000</span>
+                    <span className={Styles.textTitle}> <span className={Styles.text}>₦</span>163,340,000</span>
                     <div className={Styles.cardButton}>
                         <img src="./Images/acquisition.png" alt="" className={Styles.svgIcon}/>
                     </div>
@@ -59,7 +59,7 @@ export const Slidebox = () => {
                     <p className={Styles.textBody}>Near, Oriental Gardens</p>
                 </div>
                 <div className={Styles.cardFooter}>
-                    <span className={Styles.textTitle}> <span className={Styles.orangeText}>₦</span>60,000,000</span>
+                    <span className={Styles.textTitle}> <span className={Styles.text}>₦</span>60,000,000</span>
                     <div className={Styles.cardButton}>
                         <img src="./Images/acquisition.png" alt="" className={Styles.svgIcon}/>
                     </div>
@@ -74,7 +74,7 @@ export const Slidebox = () => {
                     <p className={Styles.textBody}>Near UNILAG</p>
                 </div>
                 <div className={Styles.cardFooter}>
-                    <span className={Styles.textTitle}> <span className={Styles.orangeText}>₦</span>29,000,000</span>
+                    <span className={Styles.textTitle}> <span className={Styles.text}>₦</span>29,000,000</span>
                     <div className={Styles.cardButton}>
                         <img src="./Images/acquisition.png" alt="" className={Styles.svgIcon}/>
                     </div>
@@ -89,7 +89,7 @@ export const Slidebox = () => {
                     <p className={Styles.textBody}>Near, GRA Ikeja</p>
                 </div>
                 <div className={Styles.cardFooter}>
-                    <span className={Styles.textTitle}> <span className={Styles.orangeText}>₦</span>77,000,000</span>
+                    <span className={Styles.textTitle}> <span className={Styles.text}>₦</span>77,000,000</span>
                     <div className={Styles.cardButton}>
                         <img src="./Images/acquisition.png" alt="" className={Styles.svgIcon}/>
                     </div>
@@ -104,7 +104,7 @@ export const Slidebox = () => {
                     <p className={Styles.textBody}>Near, Magodo phase 2(Isheri)</p>
                 </div>
                 <div className={Styles.cardFooter}>
-                    <span className={Styles.textTitle}> <span className={Styles.orangeText}>₦</span>64,000,000</span>
+                    <span className={Styles.textTitle}> <span className={Styles.text}>₦</span>64,000,000</span>
                     <div className={Styles.cardButton}>
                         <img src="./Images/acquisition.png" alt="" className={Styles.svgIcon}/>
                     </div>
@@ -119,7 +119,7 @@ export const Slidebox = () => {
                     <p className={Styles.textBody}>Near, Festac mall</p>
                 </div>
                 <div className={Styles.cardFooter}>
-                    <span className={Styles.textTitle}> <span className={Styles.orangeText}>₦</span>73,000,000</span>
+                    <span className={Styles.textTitle}> <span className={Styles.text}>₦</span>73,000,000</span>
                     <div className={Styles.cardButton}>
                         <img src="./Images/acquisition.png" alt="" className={Styles.svgIcon}/>
                     </div>
@@ -134,7 +134,7 @@ export const Slidebox = () => {
                     <p className={Styles.textBody}>Alausa</p>
                 </div>
                 <div className={Styles.cardFooter}>
-                    <span className={Styles.textTitle}> <span className={Styles.orangeText}>₦</span>84,000,000</span>
+                    <span className={Styles.textTitle}> <span className={Styles.text}>₦</span>84,000,000</span>
                     <div className={Styles.cardButton}>
                         <img src="./Images/acquisition.png" alt="" className={Styles.svgIcon}/>
                     </div>
@@ -149,13 +149,12 @@ export const Slidebox = () => {
                     <p className={Styles.textBody}>Maryland</p>
                 </div>
                 <div className={Styles.cardFooter}>
-                    <span className={Styles.textTitle}> <span className={Styles.orangeText}>₦</span>107,000,000</span>
+                    <span className={Styles.textTitle}> <span className={Styles.text}>₦</span>107,000,000</span>
                     <div className={Styles.cardButton}>
                         <img src="./Images/acquisition.png" alt="" className={Styles.svgIcon}/>
                     </div>
                 </div>
             </div>
-      
         </Carousel>
     </div>
 

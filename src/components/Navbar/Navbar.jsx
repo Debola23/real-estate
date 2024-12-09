@@ -13,7 +13,7 @@ export const Navbar = () => {
   return (
     <div className={styles.Navbar}>
         <nav>
-          <a href="/">
+          <a href="/" aria-label="Visit our website">
             <img src={"./Images/homelogo.png"} alt="" className={styles.hl} />  
           </a>
           <div className={styles.menu}>

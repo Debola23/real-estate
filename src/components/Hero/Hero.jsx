@@ -27,7 +27,10 @@ export const Hero = () => {
                     <button className={styles.btn}>
                         <a href="" >Search</a>
                     </button>
-                    <input placeholder="" type="text" className={styles.input} />
+                    <label>
+                        <input placeholder=""  type="text" className={styles.input} />
+                    </label>
+                    
                 </div>
                 <div className={styles.stats}>
                     <div className={styles.flexStats}>

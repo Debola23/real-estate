@@ -8,7 +8,7 @@
 }
 .heroLeft p{
     margin-top: 4rem;
-    color: #555;
+    color: #999;
 }
 .imgContainer{
     width: 23rem;
@@ -101,7 +101,7 @@
 }
 .statsInfo{
     font-size: small;
-    color: #555;
+    color: #999;
 }
 .stats>:nth-child(1){
     font-size: 1.8rem;

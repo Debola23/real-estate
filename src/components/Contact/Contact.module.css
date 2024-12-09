@@ -27,11 +27,11 @@
     margin-bottom: 1rem;
 }
 .contactInfo{
-    color: #8c8b8b;
+    color: #1d1d1d;
     font-size: .9rem;
 }
 .contactInfoo{
-    color: #8c8b8b;
+    color: #1d1d1d;
     font-size: .9rem;
     margin-top: 1.5rem;
 }
@@ -44,7 +44,7 @@
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    color: rgb(255, 96, 39) ;
+    color:#1f3e72;
     font-size: 1.2rem;
     cursor: pointer;
 }
@@ -53,7 +53,7 @@
     width: 4.2rem;
 }
 .number{
-    color: black;
+    color: #1f3e72;
     margin-top: 1rem;
     font-weight: 500;
 }

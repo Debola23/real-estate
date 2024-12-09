@@ -43,12 +43,14 @@ export const Property = () => {
           </div>
         </nav>
       </div> 
-        <div className={styles.hero}>
-          <h1>
-            Luxury & Comfort<br/>
-            At your Fingertips
-          </h1>
-        </div>
+      <div>
+        <img src="./Images/housesale.jpg" className={styles.heroImg}/>
+        <h1 className={styles.heroT}>
+          Luxury & Comfort
+          <br/>
+          At Your Fingertips
+        </h1>
+      </div>
         <div className={styles.propertyGrid}>
           <div className={styles.housebox}>
               <div className={styles.carBoxes2}>
@@ -201,6 +203,87 @@ export const Property = () => {
                                   </p>
                                   <p className={styles.pnp3}>
                                     $98,000,000
+                                  </p>
+                              </div>
+                          </div>
+                        <div className={styles.cInfo}>
+                        
+                        </div>
+                        <div className={styles.rentB}>
+                          <a href="/">Purchase</a>
+                        </div>
+                      </div>
+                  </div>
+              </div>
+              <div className={styles.carBoxes2}>
+                  <div className={styles.carBoxes3}>
+                      <img src="./Images/property7.jpeg" alt="house_img" className={styles.cari}/>
+                      <div className={styles.forSale} id="badge">For Sale</div>
+                      <div className={styles.carDeets}>
+                          <div className={styles.namePrice}>
+                              <div className={styles.namePrice1}>
+                                  <p className={styles.pnp}>
+                                    Orchird Road
+                                  </p>
+                                  <p className={styles.pnp2}>
+                                    Lekki
+                                  </p>
+                                  <p className={styles.pnp3}>
+                                    $248,000,000
+                                  </p>
+                              </div>
+                          </div>
+                        <div className={styles.cInfo}>
+                        
+                        </div>
+                        <div className={styles.rentB}>
+                          <a href="/">Purchase</a>
+                        </div>
+                      </div>
+                  </div>
+              </div>
+              <div className={styles.carBoxes2}>
+                  <div className={styles.carBoxes3}>
+                      <img src="./Images/property8.jpeg" alt="house_img" className={styles.cari}/>
+                      <div className={styles.forSale} id="badge">For Sale</div>
+                      <div className={styles.carDeets}>
+                          <div className={styles.namePrice}>
+                              <div className={styles.namePrice1}>
+                                  <p className={styles.pnp}>
+                                    Montana Road
+                                  </p>
+                                  <p className={styles.pnp2}>
+                                    Magodo
+                                  </p>
+                                  <p className={styles.pnp3}>
+                                    $298,000,000
+                                  </p>
+                              </div>
+                          </div>
+                        <div className={styles.cInfo}>
+                        
+                        </div>
+                        <div className={styles.rentB}>
+                          <a href="/">Purchase</a>
+                        </div>
+                      </div>
+                  </div>
+              </div>
+              <div className={styles.carBoxes2}>
+                  <div className={styles.carBoxes3}>
+                      <img src="./Images/property9.jpeg" alt="house_img" className={styles.cari}/>
+                      <div className={styles.forSale} id="badge">For Sale</div>
+                      <div className={styles.carDeets}>
+                          <div className={styles.namePrice}>
+                              <div className={styles.namePrice1}>
+                                  <p className={styles.pnp}>
+                                    Pinestone Avenu
+                                  </p>
+                                  <p className={styles.pnp2}>
+                                    Ikeja
+                                  </p>
+                                  <p className={styles.pnp3}>
+                                    $480,000,000
                                   </p>
                               </div>
                           </div>
